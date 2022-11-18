@@ -99,4 +99,4 @@ Agents dumped to dump.txt, exiting
 ```
 
 # Lisence
-[Apache 2.0](/LISENCE)
+[Apache 2.0](./LICENSE)
