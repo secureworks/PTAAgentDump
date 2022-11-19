@@ -27,7 +27,7 @@ Install-Module AADInternals
 ### If the PTA agent is installed less than 6 months ago
 Run the PTAAgentDump.exe:
 ```
-PTAgentDump file=dump.txt
+PTAAgentDump file=dump.txt
 ```
 
 The output is similar to this:
